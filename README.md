@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="coding girl" width="350" src="_a2916ee5-424e-4613-92ee-595e03510e7f](https://github.com/user-attachments/assets/b1b67ac3-2734-48ac-8f6b-c18e4db55288"/>
+<img align="right" alt="coding girl" width="350" src=_a2916ee5-424e-4613-92ee-595e03510e7f](https://github.com/user-attachments/assets/b1b67ac3-2734-48ac-8f6b-c18e4db55288/>
 
 ### 👩🏻‍💻 About Me
 
