@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="coding girl" width="350" src="C:\Users\kayyu\Downloads\_a2916ee5-424e-4613-92ee-595e03510e7f.jpg">
+<img align="right" alt="coding girl" width="350" src="https://github.com/user-attachments/assets/b8f7fe8a-a88e-41eb-882c-fc51b0ec5595">
 
 ### 👩🏻‍💻 About Me
 
