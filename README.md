@@ -49,7 +49,7 @@
 
 ![Iqra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqrakhatoon-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqrakhatoon-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=typescript,plpgsql)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqrakhatoon-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=plpgsql)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iqrakhatoon-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF)
 
