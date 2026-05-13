@@ -51,7 +51,7 @@
 |---------|------|------|------|
 | 🎨 NEXUS Studio | HTML · CSS · JS · GSAP · Locomotive Scroll | [Live](https://nexus-studio-website.vercel.app) | [GitHub](https://github.com/iqrakhatoon-dev/nexus-studio-website) |
 | 👥 Employee Management System | React · TypeScript · Context API · Tailwind | [Live](https://employees-management-system-three.vercel.app) | [GitHub](https://github.com/iqrakhatoon-dev/Employees-Management-System) |
-| 📝 React Notes App | React · Tailwind · LocalStorage | [Live](https://react-notes-app-green-psi.vercel.app) | [GitHub](https://github.com/iqrakhatoon-dev/react-notes-app) |
+| 📝 AI Image Generator | HTML5 · CSS3 · Tailwind CSS · JavaScript (ES6+) · HuggingFace API | [Live](https://iq-ai-image-generator.vercel.app) | [GitHub](Private Repo) |
 | 📖 Dictionary App | Vanilla JS · Fetch API · REST | [Live](https://dictionary-app-eight-teal.vercel.app) | [GitHub](https://github.com/iqrakhatoon-dev/dictionary-app) |
 
 ---
